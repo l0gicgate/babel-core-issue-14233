@@ -1,0 +1,14 @@
+.DS_Store
+.idea/
+.pnpm-store
+.vscode/
+.env
+!.env.example
+cypress/**/examples
+cypress/screenshots/*
+cypress/videos/*
+debug.log
+dist
+node_modules
+package-lock.json
+stats.json
