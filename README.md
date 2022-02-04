@@ -1,5 +1,5 @@
 # @babel/core Issue 14233
-Simply run the following command to experience the issue:
+Simply run the following command to reproduce the issue:
 ```
-npm run dev
+npm install && npm run dev
 ```
